@@ -42,7 +42,7 @@ pip install -r requirements.txt
 3.	Launch the notebook:
 jupyter notebook
 4.	Open the ipynb file named :
-abaruah289@gmail.com.ipynb
+20240730_EDA_on_movie_revenue_dataset.ipynb
 ________________________________________
 📬 Contact
 
