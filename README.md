@@ -32,6 +32,11 @@ ________________________________________
 •	Matplotlib & Seaborn
 •	Y-data profiling
 •	Jupyter Notebook
+•	Streamlit
+
+## 🚀 Live App
+
+- **Movie Revenue Dashboard:** https://movie-dash-acc.streamlit.app/
 ________________________________________
 🚀 How to Run the Project
 
